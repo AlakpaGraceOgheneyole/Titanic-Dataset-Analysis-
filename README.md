@@ -5,4 +5,4 @@ I analyzed variables such as passenger class, gender, age, fare, family size, an
 The analysis provided insights into survival patterns across different passenger groups and demonstrated how data analysis can be used to identify relationships and generate evidence-based business insights.
 Tools & Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, and Data Interpretation.
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.PNG)
